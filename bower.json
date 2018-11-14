@@ -1,0 +1,13 @@
+{
+  "name": "bower",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Nga Le <ngaa1leloi@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ngaa1leloi/bower.git",
+  "ignore": [
+    "README.md"
+  ]
+}
